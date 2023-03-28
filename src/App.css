@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app{
+  text-align: center;
+}
+
+img{
+  object-fit: cover;
+  margin: 10px;
+}
